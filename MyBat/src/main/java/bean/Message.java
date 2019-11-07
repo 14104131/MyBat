@@ -1,7 +1,7 @@
 package bean;
 
 /**
- * 与消息表对应的实体类
+ * 与消息表对应的实体类，孙东良
  */
 public class Message {
     /**
